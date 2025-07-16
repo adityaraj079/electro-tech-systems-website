@@ -8,7 +8,7 @@ Official website for **ElectroTech Systems**, a trusted manufacturer and supplie
 
 ## 🌐 Live Demo
 
-👉 [Visit Website](https://your-vercel-site.vercel.app)  
+👉 [Visit Website](https://www.electrotechsystems.in/)  
 *(Replace with your actual deployment URL)*
 
 ---
@@ -31,9 +31,6 @@ Official website for **ElectroTech Systems**, a trusted manufacturer and supplie
 
 ---
 
-
----
-
 ## 🚀 Getting Started
 
 ### 🖥️ Run Locally
@@ -42,7 +39,7 @@ Official website for **ElectroTech Systems**, a trusted manufacturer and supplie
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/yourusername/electrotech-website.git
+   git clone https://github.com/adityaraj079/electro-tech-systems-website.git
    cd electrotech-website
    ```
 
